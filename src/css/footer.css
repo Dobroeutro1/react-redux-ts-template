@@ -1,0 +1,8 @@
+.footer {
+    display: flex;
+}
+
+.footer__text {
+    margin: 30px auto;
+    font-size: 13px;
+}

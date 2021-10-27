@@ -1,0 +1,27 @@
+.sidebar {
+    padding: 24px 92px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 1px 0 rgba(17, 17, 17, 0.1);
+}
+
+.sidebar__sections {
+    margin: 0 auto;
+    display: flex;
+}
+
+.sidebar__button {
+    margin: 0 24px 0 0;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: normal;
+    color: rgba(17, 17, 17, 0.48);
+}
+
+.sidebar__button:last-child {
+    margin: 0;
+}
+
+.sidebar__button_text {
+    margin: 0;
+}

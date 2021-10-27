@@ -1,0 +1,18 @@
+@import url('./sidebar.css');
+@import url('./sections.css');
+@import url('./form.css');
+@import url('./preview.css');
+@import url('./footer.css');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #fff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
